@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="flutter_mini_1"
+        android:label="mini_projact-1-66"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
