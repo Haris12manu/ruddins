@@ -66,7 +66,7 @@ class TransactionDetailScreen extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 30,
-                    color: Colors.pink,
+                    color: Colors.cyan,
                   ),
                 ),
                 Center(
