@@ -187,8 +187,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
                       'SPORT',
                       style: TextStyle(
                         fontSize: 24, // กำหนดขนาดฟอนต์
-                        color: Colors.white, // กำหนดสีฟอนต์
-                        fontWeight: FontWeight.bold, // (ตัวหนา) ตัวเลือก
+                        color: Colors.black, // กำหนดสีฟอนต์
+                        fontWeight: FontWeight.w100, // (ตัวหนา) ตัวเลือก
                       ),
                     ),
                   ),
@@ -229,7 +229,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
                       'ADVENTURE',
                       style: TextStyle(
                         fontSize: 24, // กำหนดขนาดฟอนต์
-                        color: Colors.white, // กำหนดสีฟอนต์
+                        color: Colors.black, // กำหนดสีฟอนต์
                         fontWeight: FontWeight.bold, // (ตัวหนา) ตัวเลือก
                       ),
                     ),
@@ -271,8 +271,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
                       'SHOOTING',
                       style: TextStyle(
                         fontSize: 24, // กำหนดขนาดฟอนต์
-                        color: Colors.white, // กำหนดสีฟอนต์
-                        fontWeight: FontWeight.bold, // (ตัวหนา) ตัวเลือก
+                        color: Colors.black, // กำหนดสีฟอนต์
+                        fontWeight: FontWeight.w100, // (ตัวหนา) ตัวเลือก
                       ),
                     ),
                   ),
@@ -313,8 +313,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
                       'FIGHTT',
                       style: TextStyle(
                         fontSize: 24, // กำหนดขนาดฟอนต์
-                        color: Colors.white, // กำหนดสีฟอนต์
-                        fontWeight: FontWeight.bold, // (ตัวหนา) ตัวเลือก
+                        color: Colors.black, // กำหนดสีฟอนต์
+                        fontWeight: FontWeight.w100, // (ตัวหนา) ตัวเลือก
                       ),
                     ),
                   ),
